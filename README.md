@@ -11,4 +11,4 @@ Portfolio profissional para a matéria Bootcamp I.
 
 * Linkedin
 
- https://www.linkedin.com/in/francesco-gomes-992596389  
+  https://www.linkedin.com/in/francesco-gomes-992596389  
