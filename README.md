@@ -5,9 +5,13 @@ Portfolio profissional para a matéria Bootcamp I.
 
   https://francescogomesportf.my.canva.site
 
-* Vídeo de apresentação:
+* Vídeo de apresentação I:
 
   https://youtu.be/sBd0quHBEHA?feature=shared
+
+* Vídeo de apresentação II:
+  
+  https://youtu.be/sNuZW2B2mNQ?si=IP-ZFdAARcOhD3PQ
 
 * Linkedin
 
