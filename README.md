@@ -1,5 +1,5 @@
 # portfolioHUB
-Portfolio profissional para a matéria Bootcamp I.
+Portfolio profissional - Francesco Gomes
 
 * Site:
 
