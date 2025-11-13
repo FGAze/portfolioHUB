@@ -5,14 +5,6 @@ Portfolio profissional - Francesco Gomes
 
   https://francescogomesportf.my.canva.site
 
-* Vídeo de apresentação I:
-
-  https://youtu.be/sBd0quHBEHA?feature=shared
-
-* Vídeo de apresentação II:
-  
-  https://youtu.be/sNuZW2B2mNQ?si=IP-ZFdAARcOhD3PQ
-
 * Linkedin
 
   https://www.linkedin.com/in/francesco-gomes-992596389  
