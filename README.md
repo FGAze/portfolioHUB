@@ -1,6 +1,5 @@
 # portfolioHUB
 
-theme: jekyll-theme-cayman
 
 Portfolio profissional para a matéria Bootcamp I.
 
