@@ -1,4 +1,5 @@
 # portfolioHUB
+
 Portfolio profissional para a matéria Bootcamp I.
 
 * Site:
@@ -9,10 +10,18 @@ Portfolio profissional para a matéria Bootcamp I.
 
   https://youtu.be/sBd0quHBEHA?feature=shared
 
+* Linkedin:
+
+  https://www.linkedin.com/in/francesco-gomes-992596389
+
 * Vídeo de apresentação II:
   
   https://youtu.be/sNuZW2B2mNQ?si=IP-ZFdAARcOhD3PQ
 
-* Linkedin
+* PDF: Roteiro de Implantação:
 
-  https://www.linkedin.com/in/francesco-gomes-992596389  
+  https://drive.google.com/file/d/1L0aT_y1Z1xgmC8LRUHx8j002IcBaRcn1/view?usp=sharing
+
+* Vídeo de apresentação III:
+
+  https://youtu.be/26nuItwVNeY?si=YllWppVEKVSgVJsK    
